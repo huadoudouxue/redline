@@ -23,5 +23,6 @@ public enum Architecture {
 	XTENSA,
 	X86_64,
 	PPC64LE,
-	AARCH64
+	AARCH64,
+	LOONGARCH64
 }
